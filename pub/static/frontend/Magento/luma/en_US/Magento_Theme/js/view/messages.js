@@ -1,0 +1,1 @@
+/Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

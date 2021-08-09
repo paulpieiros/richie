@@ -1,0 +1,1 @@
+/Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie/vendor/magento/module-search/view/frontend/web/js/form-mini.js

@@ -1,0 +1,1 @@
+/Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

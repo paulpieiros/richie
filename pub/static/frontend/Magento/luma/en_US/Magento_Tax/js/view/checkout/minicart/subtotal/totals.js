@@ -1,0 +1,1 @@
+/Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

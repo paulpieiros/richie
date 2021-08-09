@@ -1,0 +1,1 @@
+/Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js

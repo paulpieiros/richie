@@ -1,0 +1,8 @@
+[2021-08-07 17:44:12] main.ERROR: Parameter validation failed
+#0 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/vendor/symfony/console/Command/Command.php(221): Magento\Setup\Console\Command\InstallCommand->initialize(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#1 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/vendor/symfony/console/Application.php(1005): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/vendor/symfony/console/Application.php(271): Symfony\Component\Console\Application->doRunCommand(Object(Magento\Setup\Console\Command\InstallCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/vendor/magento/framework/Console/Cli.php(115): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/vendor/symfony/console/Application.php(147): Magento\Framework\Console\Cli->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 /Users/paulpineiros/Documents/Projects/CorporacionAg/htdocs/richie_project/bin/magento(23): Symfony\Component\Console\Application->run()
+#6 {main} [] []

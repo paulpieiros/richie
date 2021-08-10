@@ -1,2 +1,4 @@
 data_quickstart/
 var/**
+pub/static/**
+app/etc/env.php

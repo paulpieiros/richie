@@ -40,10 +40,10 @@ return [
     'cache' => [
         'frontend' => [
             'default' => [
-                'id_prefix' => '94c_'
+                'id_prefix' => 'c06_'
             ],
             'page_cache' => [
-                'id_prefix' => '94c_'
+                'id_prefix' => 'c06_'
             ]
         ],
         'allow_parallel_generation' => false
@@ -51,7 +51,7 @@ return [
     'lock' => [
         'provider' => 'db',
         'config' => [
-            'prefix' => null
+            'prefix' => ''
         ]
     ],
     'directories' => [
@@ -78,6 +78,6 @@ return [
         'localhost'
     ],
     'install' => [
-        'date' => 'Sat, 07 Aug 2021 17:48:08 +0000'
+        'date' => 'Mon, 09 Aug 2021 17:18:11 +0000'
     ]
 ];
